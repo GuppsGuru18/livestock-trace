@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/livestock-trace/static/css/main.8330a947.css",
-    "main.js": "/livestock-trace/static/js/main.347c98fb.js",
+    "main.js": "/livestock-trace/static/js/main.e5dc366a.js",
     "index.html": "/livestock-trace/index.html",
     "main.8330a947.css.map": "/livestock-trace/static/css/main.8330a947.css.map",
-    "main.347c98fb.js.map": "/livestock-trace/static/js/main.347c98fb.js.map"
+    "main.e5dc366a.js.map": "/livestock-trace/static/js/main.e5dc366a.js.map"
   },
   "entrypoints": [
     "static/css/main.8330a947.css",
-    "static/js/main.347c98fb.js"
+    "static/js/main.e5dc366a.js"
   ]
 }
