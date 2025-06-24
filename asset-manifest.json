@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/livestock-trace/static/css/main.8330a947.css",
+    "main.js": "/livestock-trace/static/js/main.b1a0e0de.js",
+    "index.html": "/livestock-trace/index.html",
+    "main.8330a947.css.map": "/livestock-trace/static/css/main.8330a947.css.map",
+    "main.b1a0e0de.js.map": "/livestock-trace/static/js/main.b1a0e0de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8330a947.css",
+    "static/js/main.b1a0e0de.js"
+  ]
+}
