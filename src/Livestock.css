@@ -1,0 +1,54 @@
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 1rem;
+  font-family: Arial, sans-serif;
+  background-color: #f5faff;
+}
+
+h1, h2 {
+  text-align: center;
+  color: #336699;
+}
+
+input, button {
+  display: block;
+  margin: 8px auto;
+  padding: 8px;
+  width: 90%;
+  max-width: 400px;
+}
+
+button {
+  background-color: #336699;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #265080;
+}
+
+.section {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin-top: 20px;
+  border-radius: 8px;
+  background-color: #ffffff;
+}
+
+.owner-banner {
+  color: green;
+  font-weight: bold;
+  text-align: center;
+}
+
+.record-card {
+  border: 1px dashed #aaa;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 10px;
+  background: #f9f9f9;
+}
